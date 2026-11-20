@@ -1,0 +1,33 @@
+{
+  "completed_utc": "2026-11-19T02:10:47+00:00",
+  "corpus_sha256": "4ec74054b2cca8a3257321ff0f814469564defb396d7089216bd886b0dec13c9",
+  "python": "3.14.6",
+  "versions": {
+    "pandas": "3.0.3",
+    "numpy": "2.4.6",
+    "requests": "2.34.2",
+    "beautifulsoup4": "4.15.0",
+    "lxml": "6.1.0",
+    "matplotlib": "3.11.0",
+    "scikit-learn": "1.9.0",
+    "joblib": "1.5.3",
+    "torch": "2.15.0",
+    "transformers": "4.55.4",
+    "safetensors": "0.8.0"
+  },
+  "device": "cpu",
+  "gpu": null,
+  "seed": 42,
+  "model_source": "distilbert/distilbert-base-uncased",
+  "model_revision": "12040accade4e8a0f71eabdb258fecc2e7e948be",
+  "batch_size": 1,
+  "max_tokens": 512,
+  "planned_epochs": 3,
+  "weight_decay": 0.01,
+  "warmup_fraction": 0.1,
+  "weight_clip": 1.0,
+  "learning_rate": 2e-05,
+  "best_epoch": 2,
+  "tfidf_max_ngram": 1,
+  "tfidf_C": 0.1
+}

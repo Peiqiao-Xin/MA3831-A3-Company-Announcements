@@ -1,0 +1,4 @@
+model,test_samples,macro_f1,accuracy
+Majority class,55,0.17777777777777778,0.36363636363636365
+TF-IDF + logistic,55,0.9803756658256239,0.9818181818181818
+DistilBERT,55,1.0,1.0

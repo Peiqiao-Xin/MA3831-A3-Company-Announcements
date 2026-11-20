@@ -1,0 +1,33 @@
+{
+  "mode": "collect",
+  "start_utc": "2026-11-18T09:47:14+00:00",
+  "end_utc": "2026-11-18T09:59:32+00:00",
+  "seed": 42,
+  "samples": 278,
+  "companies": 33,
+  "attempts": 387,
+  "a2_pilot_snapshot": false,
+  "screening": {
+    "initial": [
+      653,
+      {
+        "outside_target_items": 462
+      }
+    ],
+    "reserve": [
+      128,
+      {
+        "outside_target_items": 102
+      }
+    ]
+  },
+  "target_per_item_year": {
+    "2023": 33,
+    "2024": 33,
+    "2025": 34
+  },
+  "company_cap": 15,
+  "candidate_attempt_cap": 600,
+  "minimum_words": 35,
+  "corpus_sha256": "4ec74054b2cca8a3257321ff0f814469564defb396d7089216bd886b0dec13c9"
+}

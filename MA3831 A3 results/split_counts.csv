@@ -1,0 +1,4 @@
+split,1.01,2.02,5.02,Total,Companies
+train,49,61,57,167,19
+validation,14,19,23,56,7
+test,15,20,20,55,7
