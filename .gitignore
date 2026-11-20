@@ -1,0 +1,14 @@
+MA3831_A3_run/
+sec_cache/
+pilot_snapshot/
+study/
+preview/
+.env
+.env.*
+*.pt
+*.pth
+*.joblib
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
