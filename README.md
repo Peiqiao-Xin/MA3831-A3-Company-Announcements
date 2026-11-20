@@ -6,7 +6,7 @@ Form 8-K after the official item heading is removed. The categories are material
 
 ## Run the notebook
 
-1. Open `A3_Peiqiao_Xin.ipynb` in Jupyter or Colab. Python 3.11 or 3.12 is recommended
+1. Open `MA3831_A3_Peiqiao_Xin.ipynb` in Jupyter or Colab. Python 3.11 or 3.12 is recommended
    for local use. Code 0 installs the packages needed for each mode.
 2. Code 1: leave `MODE = "preview"` to verify the parser on six saved SEC filings.
    Preview runs offline after the basic packages are installed; it does not train a model.
